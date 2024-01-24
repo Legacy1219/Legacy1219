@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Legacy1219 GitHub stats](https://github-readme-stats.vercel.app/api?username=Legacy1219&show_icons=true&theme=tokyonight)
+![Legacy1219 GitHub stats](https://github-readme-stats.vercel.app/api?username=Legacy1219&show_icons=true&theme=gruvbox)
 <!--
 **Legacy1219/Legacy1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
